@@ -1,0 +1,7 @@
+unting objects: 100% (3/3), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 248 bytes | 248.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Nikhil-Shetty06/sample-project.git
+   9b2bd89..789e418  main -> main
